@@ -1,0 +1,6 @@
+@VPN_Management_HostAddress = http://localhost:5067
+
+GET {{VPN_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

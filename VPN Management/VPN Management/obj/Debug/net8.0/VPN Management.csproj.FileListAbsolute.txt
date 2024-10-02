@@ -1,0 +1,33 @@
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\appsettings.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.exe
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.deps.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.runtimeconfig.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\bin\Debug\net8.0\VPN Management.Presintation.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.csproj.AssemblyReference.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.AssemblyInfoInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.AssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets\msbuild.VPN Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets\msbuild.build.VPN Management.props
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VPN Management.props
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VPN Management.props
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\scopedcss\bundle\VPN Management.styles.css
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Mana.B7E11464.Up2Date
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\refint\VPN Management.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\VPN Management.genruntimeconfig.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management\obj\Debug\net8.0\ref\VPN Management.dll

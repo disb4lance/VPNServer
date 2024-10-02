@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPN Management", "VPN Management\VPN Management.csproj", "{3710A043-86B1-4960-86B6-452C17C7A1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPN Management.Presintation", "VPN Management.Presintation\VPN Management.Presintation.csproj", "{0A135F99-873F-4958-8DE2-C5A59EFA7DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3710A043-86B1-4960-86B6-452C17C7A1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3710A043-86B1-4960-86B6-452C17C7A1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3710A043-86B1-4960-86B6-452C17C7A1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3710A043-86B1-4960-86B6-452C17C7A1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A135F99-873F-4958-8DE2-C5A59EFA7DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A135F99-873F-4958-8DE2-C5A59EFA7DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A135F99-873F-4958-8DE2-C5A59EFA7DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A135F99-873F-4958-8DE2-C5A59EFA7DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1210BF6E-44E0-41BB-B78F-B4E629174758}
+	EndGlobalSection
+EndGlobal
