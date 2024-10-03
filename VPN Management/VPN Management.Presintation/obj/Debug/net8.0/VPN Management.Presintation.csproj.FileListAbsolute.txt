@@ -10,3 +10,4 @@ C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Man
 C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\refint\VPN Management.Presintation.dll
 C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.pdb
 C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\ref\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VPN Management.Presintation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a973ab4af50d853f35e366b2615a585ec1034eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("VPN Management.Presintation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VPN Management.Presintation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
