@@ -1,0 +1,13 @@
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\bin\Debug\net8.0\Contract.deps.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\bin\Debug\net8.0\Contract.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\bin\Debug\net8.0\Contract.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.AssemblyInfoInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.AssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.sourcelink.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\refint\Contract.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\ref\Contract.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\UserManagment\Contract\obj\Debug\net8.0\Contract.csproj.AssemblyReference.cache
