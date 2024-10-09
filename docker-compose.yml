@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  user_management:
+    build:
+      context: .
+      dockerfile: UserManagement/Dockerfile
+    ports:
+      - "7259:80" 
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  vpn_management:
+    build:
+      context: .
+      dockerfile: VPNManagement/Dockerfile
+    ports:
+      - "7284:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  rabbitmq:
+    image: rabbitmq:management
+    ports:
+      - "15672:15672" # RabbitMQ management UI
+      - "5672:5672"   # RabbitMQ messaging port

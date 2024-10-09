@@ -1,0 +1,16 @@
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\bin\Debug\net8.0\VPN Management.Presintation.deps.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\bin\Debug\net8.0\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\bin\Debug\net8.0\VPN Management.Presintation.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.csproj.AssemblyReference.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.AssemblyInfoInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.AssemblyInfo.cs
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.csproj.CoreCompileInputs.cache
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\refint\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\ref\VPN Management.Presintation.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Management.Presintation.sourcelink.json
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\bin\Debug\net8.0\Service.Contract.dll
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\bin\Debug\net8.0\Service.Contract.pdb
+C:\Users\ivans\OneDrive\Рабочий стол\VPNServer\VPN Management\VPN Management.Presintation\obj\Debug\net8.0\VPN Mana.2BEF0C31.Up2Date
